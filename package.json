@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/afzdev13/videobot/issues"
   },
-  "homepage": "https://github.com/afzdev13/videobot#readme"
+  "homepage": "https://github.com/afzdev13/videobot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
