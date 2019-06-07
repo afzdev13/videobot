@@ -18,11 +18,8 @@
   "homepage": "https://github.com/afzdev13/videobot#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
-<<<<<<< HEAD
     "googleapis": "^40.0.0",
     "image-downloader": "^3.4.2",
-=======
->>>>>>> parent of 51976ed... feat: add image robot
     "readline-sync": "^1.4.9",
     "sbd": "^1.0.15",
     "watson-developer-cloud": "^4.0.1"
