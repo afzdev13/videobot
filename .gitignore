@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# credentials
+credentials/*.json
+
+content.json
+
+content/*.png
+.DS_store

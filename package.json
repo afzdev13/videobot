@@ -1,0 +1,27 @@
+{
+  "name": "videobot",
+  "version": "1.0.0",
+  "description": "Robot to make and upload videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afzdev13/videobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afzdev13/videobot/issues"
+  },
+  "homepage": "https://github.com/afzdev13/videobot#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "googleapis": "^40.0.0",
+    "image-downloader": "^3.4.2",
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.15",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
